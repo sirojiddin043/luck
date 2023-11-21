@@ -142,6 +142,9 @@ iframe{
   font-size: 50px;
   margin-bottom: 30px;
 }
+.header_subtitle_text{
+  color: #6183E4;
+}
 .section_main{
   margin-top: 100px;
 }
@@ -185,3 +188,60 @@ iframe{
 .main_img{
   border-radius: 20px;
 }
+.section_messanger{
+  margin-top: 100px;
+}
+.messanger_title{
+  font-size: 42px;
+  color: #18181B;
+  font-weight: 700;
+}
+.messanger_subtitle{
+  margin-top: 25px;
+  font-size: 16px;
+  font-weight: 400;
+}
+.section_mall{
+  display: flex;
+  width: 200px;;
+  justify-content: center;
+  align-items: center;
+  background-color: #6183E4;
+  color: #F8FAFC;
+  padding: 15px 15px;
+  border-radius: 15px;
+}
+.section_next{
+  background-color: #F7CE46;
+  padding: 15px 20px;
+  border-radius: 15px;
+  color: #0F172A;
+}
+.section_bar{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 490px;
+  padding: 80px 0 0;
+}
+
+.section_ican{
+  margin-top: 60px;
+  font-size: 16px;
+  font-weight: 600;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 490px;
+}
+.already_zip{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+
+
+

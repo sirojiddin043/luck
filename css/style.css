@@ -9,3 +9,9 @@
   justify-content: space-between;
   align-items: center;
 }
+.nav_ul{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 550px;
+}

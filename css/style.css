@@ -328,6 +328,89 @@ border-radius: 20px;
 .our_img{
   padding: 0 0 0 130px;
 }
+.rate_text{
+  text-align: center;
+  padding: 60px 0 0;
+}
+.rate_title{
+  font-size: 52px;
+  font-weight: 600;
+  color: #fff;
+}
+.section_rate{
+  background: url(../img/Rectangle\ 3307.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 750px;
+  position: relative;
+  z-index: -2;
+}
+.img_cost{
+  position: absolute;
+  
+}
+.img_font{
+  width: 1840px;
+  position: absolute;
+  z-index: -1;
+}
+.rate_cost{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  background: #fff;
+  border-radius: 20px;
+  margin: 90px 0 0;
+  padding: 30px 15px 0px;
+}
+.cost_title{
+  color: #000;
+  font-size: 12px;
+  font-weight: 400;
+  
+}
+.cost_subtitle{
+  color: #000;
+  font-size: 18px;
+  font-weight: 700;
+  margin-top: 15px;
+}
+.cost_text{
+  color: #000;
+  font-size: 47px;
+  font-weight: 700;
+  margin-top: 5px;
+}
+.font_title{
+  color: #000;
+  font-size: 12px;
+  font-weight: 400;
+  margin-top: 8px;
+}
+.font_btn{
+  font-size: 16px;
+  font-weight: 500;
+  color: #fff;
+  padding: 10px 90px;
+  background-color: #6183E4;
+  border-radius: 20px;
+  margin: 25px 0 45px; 
+}
+.cost_font{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 300px;
+}
+.cost_post{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 0px 0 420px;
+}
 
 
 

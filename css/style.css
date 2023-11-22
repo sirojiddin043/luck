@@ -242,12 +242,51 @@ iframe{
 }
 .buttun_already{
   padding: 10px;
+  margin: 0 20px 0 0;
 }
 .already_li{
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
   flex-direction: column;
+  padding: 20px 0 0;
+  
+}
+.already_title{
+  font-size: 15px;
+  font-weight: 700;
+  color: #3F3F46;
+  margin-bottom: 5px;
+  
+}
+.already_link{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px 0 10px 0;
+  width: 546px;
+  font-size: 12px;
+  font-weight: 700;
+  color: #18181B;
+}
+.section_more{
+  box-shadow: 1px -1px 21px 3px rgba(0,0,0,0.33);
+  -webkit-box-shadow: 1px -1px 21px 3px rgba(0,0,0,0.33);
+  -moz-box-shadow: 1px -1px 21px 3px rgba(0,0,0,0.33);
+padding: 45px 30px 15px;
+border-radius: 20px;
+}
+.already_img{
+  padding: 0 0 0 300px;
+}
+.already_img-buttun{
+  padding: 0 0 0 336px;
+}
+.already_im{
+  padding: 0px 0 0 345px;
+}
+.already_i{
+  padding: 0 0 0 320px;
 }
 
 

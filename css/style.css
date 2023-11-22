@@ -239,7 +239,15 @@ iframe{
   display: flex;
   justify-content: space-between;
   align-items: center;
-
+}
+.buttun_already{
+  padding: 10px;
+}
+.already_li{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-direction: column;
 }
 
 

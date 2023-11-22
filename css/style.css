@@ -291,7 +291,42 @@ border-radius: 20px;
 .exaple{
   font-size: 52px;
   font-weight: 600;
-  
+  margin: 100px;
+}
+.our_text{
+  margin-top: 35px;
+}
+.our_subtitle{
+  color: #6183E4;
+  font-size: 14px;
+  font-weight: 600;
+}
+.our_title{
+  font-size: 24px;
+  color: #101828;
+  font-weight: 600;
+  margin-top: 8px;
+}
+.our_next{
+  font-size: 16px;
+  font-weight: 400;
+  color: #667085;
+  margin-top: 8px;
+}
+.our_col{
+  box-shadow: 1px -1px 21px 3px rgba(0,0,0,0.33);
+  -webkit-box-shadow: 1px -1px 21px 3px rgba(0,0,0,0.33);
+  -moz-box-shadow: 1px -1px 21px 3px rgba(0,0,0,0.33);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 30px 0 75px;
+  margin: 5px 20px 20px;
+    width: 400px;
+}
+.our_img{
+  padding: 0 0 0 130px;
 }
 
 

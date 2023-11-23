@@ -344,7 +344,7 @@ border-radius: 20px;
   background-size: cover;
   height: 750px;
   position: relative;
-  z-index: -2;
+  z-index: -1;
 }
 .img_cost{
   position: absolute;
@@ -353,7 +353,7 @@ border-radius: 20px;
 .img_font{
   width: 1840px;
   position: absolute;
-  z-index: -1;
+  z-index: -2;
 }
 .rate_cost{
   display: flex;
@@ -363,7 +363,7 @@ border-radius: 20px;
   background: #fff;
   border-radius: 20px;
   margin: 90px 0 0;
-  padding: 30px 15px 0px;
+  padding: 30px 0px 0px
 }
 .cost_title{
   color: #000;
@@ -409,7 +409,13 @@ border-radius: 20px;
   display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0 0px 0 420px;
+    padding: 0 0px 0 330px;
+    width: 180px;
+    
+}
+.free_text{
+  text-align: center;
+  padding: 60px 0 0;
 }
 
 
